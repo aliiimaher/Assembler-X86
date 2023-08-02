@@ -52,4 +52,4 @@ LABEL:
     ; Your code here
 ```
 
-![Assembler Image](./Assembly Opcode Table.jpg)
+![Assembler Image](Assembly%20Opcode%20Table.jpg)
