@@ -4,7 +4,7 @@ This is an assembler written in Python.
 ## Author: Seyed Ali Maher
 ## Student NO.: 9932113
 ## Creation Date: 1400-10-06
-## Revision: 00
+## Revision: 03
 
 ## Program Description
 
@@ -52,4 +52,4 @@ LABEL:
     ; Your code here
 ```
 
-![Assembler Image](Assembly Opcode Table.jpg)
+![Assembler Image](./Assembly Opcode Table.jpg)
