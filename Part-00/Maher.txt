@@ -1,0 +1,6 @@
+Seyed Ali Maher
+9932113
+Part 1 of the Assembly project.
+
+
+the Rwords_in_asm.txt file is linked to Assembly.py

@@ -1,0 +1,6 @@
+or eax, ecx
+L1:
+add cx, ax
+jmp L1
+add al, bl
+sub eax, [ecx]

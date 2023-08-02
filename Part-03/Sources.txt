@@ -1,0 +1,6 @@
+http://www.c-jump.com/CIS77/CPU/x86/lecture.html#X77_0210_encoding_add_immediate
+
+http://shell-storm.org/online/Online-Assembler-and-Disassembler/
+
+And a great thanks to Mr. Mirhosseini for his awsome guidance.
+
